@@ -4,19 +4,19 @@ This is my portofolio where i created games in Unity using the C# programming la
 
 
 # [Hit-The-Target](https://github.com/dragospislariu/Hit-The-Target)
-![](https://github.com/dragospislariu/dragospislariu.github.io/blob/main/images/hitthetarget.PNG)
+![](/images/hitthetarget.PNG)
 
 # [Roll-A-Ball](https://github.com/dragospislariu/RollABall)
-![](https://github.com/dragospislariu/dragospislariu.github.io/blob/main/images/rollaball.PNG)
+![](/images/rollaball.PNG)
 
 # [Destroy-The-Ball](https://github.com/dragospislariu/Destroy-The-Balls)
-![](https://github.com/dragospislariu/dragospislariu.github.io/blob/main/images/destroytheball.PNG)
+![](/images/destroytheball.PNG)
 
 # [Space-Fighter](https://github.com/dragospislariu/Space_Fighter)
-![](https://github.com/dragospislariu/dragospislariu.github.io/blob/main/images/spacefighters.PNG)
+![](/images/spacefighters.PNG)
 
 # [Chickens-Frenzy](https://github.com/dragospislariu/Chickens-Frenzy)
-![](https://github.com/dragospislariu/dragospislariu.github.io/blob/main/images/chickensfrenzy.PNG)
+![](/images/chickensfrenzy.PNG)
 
 
 
