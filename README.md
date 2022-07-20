@@ -4,5 +4,4 @@ This is my portofolio where i created games using the C# programming language an
 
 
 [Hit-The-Target](https://github.com/dragospislariu/Hit-The-Target)
-
--
+![alt text](https://github.com/dragospislariu/dragospislariu.github.io/blob/main/images/hitthetarget.JPG)
